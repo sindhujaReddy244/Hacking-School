@@ -163,7 +163,7 @@ app.get('/home', authenticateToken, async (req, res) => {
       const pageSize = 10; // Number of messages per page
       const startIndex = (page - 1) * pageSize;
       const endIndex = startIndex + pageSize;
-      console.log('Fetching messages from', startIndex, 'to', endIndex);
+      //console.log('Fetching messages from', startIndex, 'to', endIndex);
   
       // Fetch messages for the user from the database (replace with your database queries)
       // const userMessages = await client.query('SELECT * FROM messages WHERE username = $1', [username]);
