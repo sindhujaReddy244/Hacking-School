@@ -29,7 +29,9 @@ npm install
 
 To start the server, run the following command:
 
-+ npm start This will start the Node.js server on port 3001.
++ npm start 
+
+This will start the Node.js server on port 3001.
 
 To start the client, run the following command in a separate terminal:
 
