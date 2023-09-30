@@ -20,7 +20,8 @@ Users can view messages from other users, with an option for pagination.
 + Message: Messages submitted by users appear on the home page, displaying content, time, and the username of the sender. 
 + Logout: Users can log out of their accounts.
 
-## Installing To install the project dependencies, run the following command in the project directory:
+## Installing 
+To install the project dependencies, run the following command in the project directory:
 
 npm install
 
